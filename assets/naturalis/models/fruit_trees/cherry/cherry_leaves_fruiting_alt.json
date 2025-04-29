@@ -1,9 +1,9 @@
 {
     "parent":"naturalis:fruit_trees/parents/alts/berry_fruiting_alt",
     "textures": {
-	"leaves": "tfc:block/cherry_bushy",
-    "branch": "tfc:block/cherry_dry",
-    "fruits": "naturalis:block/fruits/cherry_fruit"
+	"leaves": "naturalis:block/fruit_trees/cherry_bushy",
+    "branch": "naturalis:block/fruit_trees/cherry_dry",
+    "fruits": "naturalis:block/fruit_trees/fruits/cherry_fruit"
 
     }
 }

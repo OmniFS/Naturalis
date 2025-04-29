@@ -1,9 +1,9 @@
 {
     "parent":"naturalis:fruit_trees/parents/alts/fruit_fruiting_alt",
     "textures": {
-	"leaves": "tfc:block/red_apple_bushy",
-    "branch": "tfc:block/red_apple_dry",
-    "fruits": "naturalis:block/fruits/red_apple_fruit"
+	"leaves": "naturalis:block/fruit_trees/red_apple_bushy",
+    "branch": "naturalis:block/fruit_trees/red_apple_dry",
+    "fruits": "naturalis:block/fruit_trees/fruits/red_apple_fruit"
 
     }
 }

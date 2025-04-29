@@ -1,7 +1,7 @@
 {
     "parent":"naturalis:fruit_trees/parents/fruit_healthy",
     "textures": {
-	"leaves": "tfc:block/red_apple_bushy",
-    "branch": "tfc:block/red_apple_dry"
+	"leaves": "naturalis:block/fruit_trees/red_apple_bushy",
+    "branch": "naturalis:block/fruit_trees/red_apple_dry"
     }
 }

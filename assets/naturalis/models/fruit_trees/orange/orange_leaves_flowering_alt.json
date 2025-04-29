@@ -1,9 +1,9 @@
 {
     "parent":"naturalis:fruit_trees/parents/alts/fruit_flowering_alt",
     "textures": {
-	"leaves": "tfc:block/orange_bushy",
-    "branch": "tfc:block/orange_dry",
-    "flowers": "naturalis:block/fruits/flowers/orange_flower"
+	"leaves": "naturalis:block/fruit_trees/orange_bushy",
+    "branch": "naturalis:block/fruit_trees/orange_dry",
+    "flowers": "naturalis:block/fruit_trees/flowers/orange_flower"
 
     }
 }

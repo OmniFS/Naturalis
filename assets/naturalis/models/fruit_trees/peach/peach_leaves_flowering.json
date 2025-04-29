@@ -1,8 +1,8 @@
 {
     "parent":"naturalis:fruit_trees/parents/fruit_flowering",
     "textures": {
-	"leaves": "tfc:block/peach_bushy",
-    "branch": "tfc:block/peach_dry",
-    "flowers": "naturalis:block/fruits/flowers/peach_flower"
+	"leaves": "naturalis:block/fruit_trees/peach_bushy",
+    "branch": "naturalis:block/fruit_trees/peach_dry",
+    "flowers": "naturalis:block/fruit_trees/flowers/peach_flower"
     }
 }

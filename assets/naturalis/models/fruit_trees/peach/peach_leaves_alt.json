@@ -1,7 +1,7 @@
 {
     "parent":"naturalis:fruit_trees/parents/alts/fruit_healthy_alt",
     "textures": {
-	"leaves": "tfc:block/peach_bushy",
-    "branch": "tfc:block/peach_dry"
+	"leaves": "naturalis:block/fruit_trees/peach_bushy",
+    "branch": "naturalis:block/fruit_trees/peach_dry"
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent":"naturalis:fruit_trees/parents/fruit_healthy",
     "textures": {
-	"leaves": "tfc:block/lemon_bushy",
-    "branch": "tfc:block/lemon_dry"
+	"leaves": "naturalis:block/fruit_trees/lemon_bushy",
+    "branch": "naturalis:block/fruit_trees/lemon_dry"
     }
 }

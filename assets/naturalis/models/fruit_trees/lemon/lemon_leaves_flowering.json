@@ -1,8 +1,8 @@
 {
     "parent":"naturalis:fruit_trees/parents/fruit_flowering",
     "textures": {
-	"leaves": "tfc:block/lemon_bushy",
-    "branch": "tfc:block/lemon_dry",
-    "flowers": "naturalis:block/fruits/flowers/lemon_flower"
+	"leaves": "naturalis:block/fruit_trees/lemon_bushy",
+    "branch": "naturalis:block/fruit_trees/lemon_dry",
+    "flowers": "naturalis:block/fruit_trees/flowers/lemon_flower"
     }
 }
