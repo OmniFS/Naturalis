@@ -1,0 +1,8 @@
+{
+    "parent":"naturalis:fruit_trees/parents/berry_fruiting",
+    "textures": {
+	"leaves": "tfc:block/cherry_bushy",
+    "branch": "tfc:block/cherry_dry",
+    "fruits": "naturalis:block/fruits/cherry_fruit"
+    }
+}

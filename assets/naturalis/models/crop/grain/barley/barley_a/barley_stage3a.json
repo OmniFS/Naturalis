@@ -1,0 +1,8 @@
+{
+  "parent": "naturalis:crop/parents/grain/grain_crop_a",
+  "textures": {
+    "grass": "naturalis:block/crop/grain/barley_a/3/barley_grass_3a",
+    "brush": "naturalis:block/crop/grain/barley_a/3/barley_brush_3a",
+    "crop":  "naturalis:block/crop/grain/barley_a/3/barley_crop_3a"
+  }
+}

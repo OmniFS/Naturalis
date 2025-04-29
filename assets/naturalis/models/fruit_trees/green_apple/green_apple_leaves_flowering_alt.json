@@ -1,0 +1,9 @@
+{
+    "parent":"naturalis:fruit_trees/parents/alts/fruit_flowering_alt",
+    "textures": {
+	"leaves": "tfc:block/green_apple_bushy",
+    "branch": "tfc:block/green_apple_dry",
+    "flowers": "naturalis:block/fruits/flowers/apple_flower"
+
+    }
+}

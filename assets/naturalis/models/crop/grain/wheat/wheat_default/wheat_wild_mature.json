@@ -1,0 +1,8 @@
+{
+    "parent": "naturalis:crop/parents/grain/grain_crop",
+    "textures": {
+        "grass": "naturalis:block/crop/grain/wheat_default/wild/wheat_grass_wild",
+        "brush": "naturalis:block/crop/grain/wheat_default/wild/wheat_brush_wild",
+        "crop": "naturalis:block/crop/grain/wheat_default/wild/wheat_crop_wild"
+    }
+}

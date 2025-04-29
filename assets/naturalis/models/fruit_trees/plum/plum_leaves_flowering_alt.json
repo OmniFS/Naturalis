@@ -1,0 +1,9 @@
+{
+    "parent":"naturalis:fruit_trees/parents/alts/fruit_flowering_alt",
+    "textures": {
+	"leaves": "tfc:block/plum_bushy",
+    "branch": "tfc:block/plum_dry",
+    "flowers": "naturalis:block/fruits/flowers/plum_flower"
+
+    }
+}

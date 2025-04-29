@@ -1,0 +1,9 @@
+{
+    "parent":"naturalis:fruit_trees/parents/alts/fruit_fruiting_alt",
+    "textures": {
+	"leaves": "tfc:block/peach_bushy",
+    "branch": "tfc:block/peach_dry",
+    "fruits": "naturalis:block/fruits/peach_fruit"
+
+    }
+}

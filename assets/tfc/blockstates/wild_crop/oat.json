@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "mature=false": [
+      {
+        "model": "naturalis:crop/grain/oat/oat_default/oat_dead"
+      },
+      {
+        "model": "naturalis:crop/grain/oat/oat_a/oat_dead_a"
+      },
+      {
+        "model": "naturalis:crop/grain/oat/oat_b/oat_dead_b"
+      }
+    ],
+    "mature=true": [
+      {
+        "model": "naturalis:crop/grain/oat/oat_default/oat_wild_mature"
+      },
+      {
+        "model": "naturalis:crop/grain/oat/oat_a/oat_wild_mature_a"
+      },
+      {
+        "model": "naturalis:crop/grain/oat/oat_b/oat_wild_mature_b"
+      }
+    ]
+  }
+}

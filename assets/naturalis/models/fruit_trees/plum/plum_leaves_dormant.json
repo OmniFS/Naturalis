@@ -1,0 +1,6 @@
+{
+    "parent":"naturalis:fruit_trees/parents/fruit_dormant",
+    "textures": {
+	"branch": "tfc:block/plum_dry"
+    }
+}

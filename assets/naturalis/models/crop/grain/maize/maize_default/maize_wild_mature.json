@@ -1,0 +1,8 @@
+{
+    "parent": "naturalis:crop/parents/grain/grain_crop",
+    "textures": {
+        "grass": "naturalis:block/crop/grain/maize_default/wild/maize_grass_wild",
+        "brush": "naturalis:block/crop/grain/maize_default/wild/maize_brush_wild",
+        "crop": "naturalis:block/crop/grain/maize_default/wild/maize_crop_wild"
+    }
+}

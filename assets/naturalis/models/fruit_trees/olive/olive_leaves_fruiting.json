@@ -1,0 +1,8 @@
+{
+    "parent":"naturalis:fruit_trees/parents/berry_fruiting",
+    "textures": {
+	"leaves": "tfc:block/olive_bushy",
+    "branch": "tfc:block/olive_dry",
+    "fruits": "naturalis:block/fruits/olive_fruit"
+    }
+}

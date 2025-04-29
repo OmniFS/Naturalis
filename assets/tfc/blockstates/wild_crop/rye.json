@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "mature=false": [
+      {
+        "model": "naturalis:crop/grain/rye/rye_default/rye_dead"
+      },
+      {
+        "model": "naturalis:crop/grain/rye/rye_a/rye_dead_a"
+      },
+      {
+        "model": "naturalis:crop/grain/rye/rye_b/rye_dead_b"
+      }
+    ],
+    "mature=true": [
+      {
+        "model": "naturalis:crop/grain/rye/rye_default/rye_wild_mature"
+      },
+      {
+        "model": "naturalis:crop/grain/rye/rye_a/rye_wild_mature_a"
+      },
+      {
+        "model": "naturalis:crop/grain/rye/rye_b/rye_wild_mature_b"
+      }
+    ]
+  }
+}

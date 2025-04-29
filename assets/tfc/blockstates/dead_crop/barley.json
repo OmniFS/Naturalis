@@ -1,0 +1,14 @@
+{
+    "variants": {
+      "mature=false": [
+        {"model": "naturalis:crop/grain/barley/barley_default/barley_dead"},
+        {"model": "naturalis:crop/grain/barley/barley_a/barley_dead_a"},
+        {"model": "naturalis:crop/grain/barley/barley_b/barley_dead_b"}
+      ],
+      "mature=true": [
+        {"model": "naturalis:crop/grain/barley/barley_default/barley_dead_mature"},
+        {"model": "naturalis:crop/grain/barley/barley_a/barley_dead_mature_a"},
+        {"model": "naturalis:crop/grain/barley/barley_b/barley_dead_mature_b"}
+      ]
+    }
+  }
