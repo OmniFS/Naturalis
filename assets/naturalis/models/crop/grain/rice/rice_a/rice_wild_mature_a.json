@@ -2,7 +2,7 @@
     "parent": "naturalis:crop/parents/grain/grain_crop_a",
     "textures": {
         "grass": "naturalis:block/crop/grain/rice_a/wild/rice_grass_wild_a",
-        "brush": "naturalis:block/crop/grain/rice_a/wild/rice_brush_wild_a",
-        "crop": "naturalis:block/crop/grain/rice_a/wild/rice_crop_wild_a"
+        "brush": "naturalis:block/crop/grain/rice_a/7/rice_brush_7a",
+        "crop": "naturalis:block/crop/grain/rice_a/7/rice_crop_7a"
     }
 }

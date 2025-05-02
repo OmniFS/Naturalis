@@ -2,7 +2,7 @@
     "parent": "naturalis:crop/parents/grain/grain_crop_b",
     "textures": {
         "grass": "naturalis:block/crop/grain/maize_b/wild/maize_grass_wild_b",
-        "brush": "naturalis:block/crop/grain/maize_b/wild/maize_brush_wild_b",
-        "crop": "naturalis:block/crop/grain/maize_b/wild/maize_crop_wild_b"
+        "brush": "naturalis:block/crop/grain/maize_b/7/maize_brush_7b",
+        "crop": "naturalis:block/crop/grain/maize_b/7/maize_crop_7b"
     }
 }
