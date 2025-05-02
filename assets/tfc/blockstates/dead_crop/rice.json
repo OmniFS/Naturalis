@@ -1,26 +1,13 @@
 {
   "variants": {
     "mature=false": [
-      {
-        "model": "naturalis:crop/grain/rice/rice_default/rice_dead"
-      },
-      {
-        "model": "naturalis:crop/grain/rice/rice_a/rice_dead_a"
-      },
-      {
-        "model": "naturalis:crop/grain/rice/rice_b/rice_dead_b"
-      }
+      { "model": "naturalis:crop/grain/rice/rice_b/rice_dead_b" },
+      { "model": "naturalis:crop/grain/rice/rice_b/rice_dead_b", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_b/rice_dead_b", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_b/rice_dead_b", "y": 270 }
     ],
     "mature=true": [
-      {
-        "model": "naturalis:crop/grain/rice/rice_default/rice_dead_mature"
-      },
-      {
-        "model": "naturalis:crop/grain/rice/rice_a/rice_dead_mature_a"
-      },
-      {
-        "model": "naturalis:crop/grain/rice/rice_b/rice_dead_mature_b"
-      }
+      { "model": "naturalis:crop/grain/rice/rice_b/rice_dead_mature_b" }
     ]
   }
 }

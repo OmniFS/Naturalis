@@ -1,33 +1,28 @@
 {
     "variants": {
         "lifecycle=healthy": [
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves", "y": 90 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves", "y": 180},
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_alt" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_alt", "y": 270 }
-		],
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves", "y": 90 },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_alt" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_alt", "y": 180 }
+        ],
         "lifecycle=flowering": [
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering", "y": 90 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering", "y": 180 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering_alt" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering_alt", "y": 270 }
-		],
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering", "y": 90 },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering_alt" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_flowering_alt", "y": 180 }
+        ],
         "lifecycle=fruiting": [
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting", "y": 90 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting", "y": 180 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting_alt" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting_alt", "y": 270 }
-		],
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting", "y": 90 },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting_alt" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_fruiting_alt", "y": 180 }
+        ],
         "lifecycle=dormant": [
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant", "y": 90 },
-			
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant", "y": 180 },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant_alt" },
-			{ "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant_alt", "y": 270 }
-		]
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant", "y": 90 },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant_alt" },
+            { "model": "naturalis:fruit_trees/cherry/cherry_leaves_dormant_alt", "y": 180 }
+        ]
     }
 }

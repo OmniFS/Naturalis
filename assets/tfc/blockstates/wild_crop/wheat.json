@@ -1,26 +1,16 @@
 {
   "variants": {
     "mature=false": [
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_default/wheat_dead"
-      },
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_a/wheat_dead_a"
-      },
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_b/wheat_dead_b"
-      }
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_dead_b" },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_dead_b", "y": 90 },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_dead_b", "y": 180 },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_dead_b", "y": 270 }
     ],
     "mature=true": [
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_default/wheat_wild_mature"
-      },
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_a/wheat_wild_mature_a"
-      },
-      {
-        "model": "naturalis:crop/grain/wheat/wheat_b/wheat_wild_mature_b"
-      }
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_wild_mature_b" },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_wild_mature_b", "y": 90 },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_wild_mature_b", "y": 180 },
+      { "model": "naturalis:crop/grain/wheat/wheat_b/wheat_wild_mature_b", "y": 270 }
     ]
   }
 }
