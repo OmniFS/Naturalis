@@ -1,8 +1,0 @@
-{
-    "parent": "naturalis:crop/parents/grain/grain_crop_a",
-    "textures": {
-        "grass": "naturalis:block/crop/grain/rye_a/1/rye_grass_1a",
-        "brush": "naturalis:block/crop/grain/rye_a/1/rye_brush_1a",
-        "crop": "naturalis:block/crop/grain/rye_a/1/rye_crop_1a"
-    }
-}

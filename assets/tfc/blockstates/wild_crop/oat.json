@@ -1,16 +1,16 @@
 {
   "variants": {
     "mature=false": [
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_dead_b" },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_dead_b", "y": 90 },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_dead_b", "y": 180 },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_dead_b", "y": 270 }
+      { "model": "naturalis:crop/grain/oat/oat_dead" },
+      { "model": "naturalis:crop/grain/oat/oat_dead", "y": 90 },
+      { "model": "naturalis:crop/grain/oat/oat_dead", "y": 180 },
+      { "model": "naturalis:crop/grain/oat/oat_dead", "y": 270 }
     ],
     "mature=true": [
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_wild_mature_b" },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_wild_mature_b", "y": 90 },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_wild_mature_b", "y": 180 },
-      { "model": "naturalis:crop/grain/oat/oat_b/oat_wild_mature_b", "y": 270 }
+      { "model": "naturalis:crop/grain/oat/oat_wild_mature" },
+      { "model": "naturalis:crop/grain/oat/oat_wild_mature", "y": 90 },
+      { "model": "naturalis:crop/grain/oat/oat_wild_mature", "y": 180 },
+      { "model": "naturalis:crop/grain/oat/oat_wild_mature", "y": 270 }
     ]
   }
 }

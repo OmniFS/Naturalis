@@ -1,8 +1,0 @@
-{
-    "parent": "naturalis:crop/parents/grain/grain_crop_a",
-    "textures": {
-        "grass": "naturalis:block/crop/grain/oat_a/4/oat_grass_4a",
-        "brush": "naturalis:block/crop/grain/oat_a/4/oat_brush_4a",
-        "crop": "naturalis:block/crop/grain/oat_a/4/oat_crop_4a"
-    }
-}

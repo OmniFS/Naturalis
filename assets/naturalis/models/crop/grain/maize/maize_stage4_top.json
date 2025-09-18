@@ -1,0 +1,7 @@
+{
+    "parent": "naturalis:crop/parents/grain/maize_crop_top",
+    "textures": {
+        "crop": "naturalis:block/crop/grain/maize/maize_crop_4_top",
+        "fruit": "naturalis:block/crop/grain/maize/fruit_4"
+    }
+}

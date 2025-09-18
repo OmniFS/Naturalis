@@ -1,0 +1,8 @@
+{
+    "parent": "naturalis:crop/parents/grain/grain_crop",
+    "textures": {
+        "grass": "naturalis:block/crop/grain/extra/grass/rice_grass_dead_mature",
+        "brush": "naturalis:block/crop/grain/extra/brush/rice_brush_dead_mature",
+        "crop": "naturalis:block/crop/grain/rice/rice_crop_dead_mature"
+    }
+}

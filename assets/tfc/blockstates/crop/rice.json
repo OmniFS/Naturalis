@@ -1,52 +1,52 @@
 {
   "variants": {
     "age=0": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage0b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage0b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage0b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage0b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage0" },
+      { "model": "naturalis:crop/grain/rice/rice_stage0", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage0", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage0", "y": 270 }
     ],
     "age=1": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage1b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage1b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage1b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage1b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage1" },
+      { "model": "naturalis:crop/grain/rice/rice_stage1", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage1", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage1", "y": 270 }
     ],
     "age=2": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage2b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage2b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage2b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage2b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage2" },
+      { "model": "naturalis:crop/grain/rice/rice_stage2", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage2", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage2", "y": 270 }
     ],
     "age=3": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage3b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage3b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage3b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage3b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage3" },
+      { "model": "naturalis:crop/grain/rice/rice_stage3", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage3", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage3", "y": 270 }
     ],
     "age=4": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage4b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage4b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage4b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage4b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage4" },
+      { "model": "naturalis:crop/grain/rice/rice_stage4", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage4", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage4", "y": 270 }
     ],
     "age=5": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage5b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage5b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage5b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage5b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage5" },
+      { "model": "naturalis:crop/grain/rice/rice_stage5", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage5", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage5", "y": 270 }
     ],
     "age=6": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage6b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage6b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage6b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage6b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage6" },
+      { "model": "naturalis:crop/grain/rice/rice_stage6", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage6", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage6", "y": 270 }
     ],
     "age=7": [
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage7b" },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage7b", "y": 90 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage7b", "y": 180 },
-      { "model": "naturalis:crop/grain/rice/rice_b/rice_stage7b", "y": 270 }
+      { "model": "naturalis:crop/grain/rice/rice_stage7" },
+      { "model": "naturalis:crop/grain/rice/rice_stage7", "y": 90 },
+      { "model": "naturalis:crop/grain/rice/rice_stage7", "y": 180 },
+      { "model": "naturalis:crop/grain/rice/rice_stage7", "y": 270 }
     ]
   }
 }

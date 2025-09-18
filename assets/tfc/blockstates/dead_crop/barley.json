@@ -1,16 +1,16 @@
 {
   "variants": {
     "mature=false": [
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_b" },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_b", "y": 90 },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_b", "y": 180 },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_b", "y": 270 }
+      { "model": "naturalis:crop/grain/barley/barley_dead" },
+      { "model": "naturalis:crop/grain/barley/barley_dead", "y": 90 },
+      { "model": "naturalis:crop/grain/barley/barley_dead", "y": 180 },
+      { "model": "naturalis:crop/grain/barley/barley_dead", "y": 270 }
     ],
     "mature=true": [
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_mature_b" },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_mature_b", "y": 90 },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_mature_b", "y": 180 },
-      { "model": "naturalis:crop/grain/barley/barley_b/barley_dead_mature_b", "y": 270 }
+      { "model": "naturalis:crop/grain/barley/barley_dead_mature" },
+      { "model": "naturalis:crop/grain/barley/barley_dead_mature", "y": 90 },
+      { "model": "naturalis:crop/grain/barley/barley_dead_mature", "y": 180 },
+      { "model": "naturalis:crop/grain/barley/barley_dead_mature", "y": 270 }
     ]
   }
 }
