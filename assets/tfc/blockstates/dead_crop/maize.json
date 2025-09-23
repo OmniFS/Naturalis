@@ -1,16 +1,28 @@
 {
   "variants": {
-    "mature=false": [
-      { "model": "naturalis:crop/grain/maize/maize_dead" },
-      { "model": "naturalis:crop/grain/maize/maize_dead", "y": 90 },
-      { "model": "naturalis:crop/grain/maize/maize_dead", "y": 180 },
-      { "model": "naturalis:crop/grain/maize/maize_dead", "y": 270 }
+    "mature=false,part=bottom": [
+      { "model": "naturalis:crop/grain/maize/maize_dead_bottom" },
+      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 270 }
     ],
-    "mature=true": [
-      { "model": "naturalis:crop/grain/maize/maize_dead_mature" },
-      { "model": "naturalis:crop/grain/maize/maize_dead_mature", "y": 90 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_mature", "y": 180 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_mature", "y": 270 }
+        "mature=false,part=top": [
+      { "model": "naturalis:crop/grain/maize/maize_dead_top" },
+      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 270 }
+    ],
+    "mature=true,part=bottom": [
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_bottom" },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_bottom", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_bottom", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_bottom", "y": 270 }
+    ],
+    "mature=true,part=top": [
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_top" },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_top", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_top", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_dead_mature_top", "y": 270 }
     ]
   }
 }

@@ -3,6 +3,7 @@
     "textures": {
     "grass": "naturalis:block/crop/grain/extra/grass/grass_dead_mature",
     "brush": "naturalis:block/crop/grain/extra/brush/brush_dead_mature",
-        "crop": "naturalis:block/crop/grain/maize/maize_crop_dead_mature"
+    "crop": "naturalis:block/crop/grain/maize/maize_crop_dead_bottom",
+    "fruit": "naturalis:block/crop/grain/maize/fruit_dead"
     }
 }

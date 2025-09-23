@@ -1,22 +1,22 @@
 {
   "variants": {
     "mature=false,part=bottom": [
-      { "model": "naturalis:crop/grain/maize/maize_dead_bottom" },
-      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 90 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 180 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_bottom", "y": 270 }
+      { "model": "naturalis:crop/grain/maize/maize_wild_bottom" },
+      { "model": "naturalis:crop/grain/maize/maize_wild_bottom", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_wild_bottom", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_wild_bottom", "y": 270 }
+    ] ,
+      "mature=false,part=top": [
+      { "model": "naturalis:crop/grain/maize/maize_wild_top" },
+      { "model": "naturalis:crop/grain/maize/maize_wild_top", "y": 90 },
+      { "model": "naturalis:crop/grain/maize/maize_wild_top", "y": 180 },
+      { "model": "naturalis:crop/grain/maize/maize_wild_top", "y": 270 }
     ],
     "mature=true,part=bottom": [
       { "model": "naturalis:crop/grain/maize/maize_wild_mature_bottom" },
       { "model": "naturalis:crop/grain/maize/maize_wild_mature_bottom", "y": 90 },
       { "model": "naturalis:crop/grain/maize/maize_wild_mature_bottom", "y": 180 },
       { "model": "naturalis:crop/grain/maize/maize_wild_mature_bottom", "y": 270 }
-    ],
-      "mature=false,part=top": [
-      { "model": "naturalis:crop/grain/maize/maize_dead_top" },
-      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 90 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 180 },
-      { "model": "naturalis:crop/grain/maize/maize_dead_top", "y": 270 }
     ],
     "mature=true,part=top": [
       { "model": "naturalis:crop/grain/maize/maize_wild_mature_top" },
